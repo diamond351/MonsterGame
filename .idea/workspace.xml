@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89975104-a726-438a-a04b-df9e53c6bf8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../a0/starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../a0/starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../a1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../a1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ca/uwaterloo/cs349/MiniGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/uwaterloo/cs349/MiniGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dvbzcTSw1anrCZKuBGPl9uPKu6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test1/f28jiang/a2/MonsterGame" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MiniGame">
+    <configuration name="MiniGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.uwaterloo.cs349.MiniGame" />
+      <module name="HelloFX.main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Paul\CS349\JavaFX\lib&quot; --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.uwaterloo.cs349.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimalHelloFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.uwaterloo.cs349.MinimalHelloFX" />
+      <module name="HelloFX.main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Paul\CS349\JavaFX\lib&quot; --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.uwaterloo.cs349.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MinimalHelloFX" />
+      <item itemvalue="Application.MiniGame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinimalHelloFX" />
+        <item itemvalue="Application.MiniGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89975104-a726-438a-a04b-df9e53c6bf8b" name="Default Changelist" comment="" />
+      <created>1593308777015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593308777015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593388527183">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="552" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1593388527183" />
+    <state x="1452" y="307" key="#com.intellij.ide.util.MemberChooser" timestamp="1593321988155">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1452" y="307" key="#com.intellij.ide.util.MemberChooser/0.0.2194.1194@0.0.2194.1194" timestamp="1593321988155" />
+    <state x="623" y="314" key="FileChooserDialogImpl" timestamp="1593389909068">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="623" y="314" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1593389909068" />
+    <state width="1052" height="330" key="GridCell.Tab.0.bottom" timestamp="1593390924793">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="330" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1593390924793" />
+    <state width="1052" height="330" key="GridCell.Tab.0.center" timestamp="1593390924793">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="330" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1593390924793" />
+    <state width="1052" height="330" key="GridCell.Tab.0.left" timestamp="1593390924792">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="330" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1593390924792" />
+    <state width="1052" height="330" key="GridCell.Tab.0.right" timestamp="1593390924793">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="330" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1593390924793" />
+    <state width="1052" height="409" key="GridCell.Tab.1.bottom" timestamp="1593389935405">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="409" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1593389935405" />
+    <state width="1052" height="409" key="GridCell.Tab.1.center" timestamp="1593389935405">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="409" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1593389935405" />
+    <state width="1052" height="409" key="GridCell.Tab.1.left" timestamp="1593389935404">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="409" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1593389935404" />
+    <state width="1052" height="409" key="GridCell.Tab.1.right" timestamp="1593389935405">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="1052" height="409" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1593389935405" />
+    <state x="578" y="172" key="SettingsEditor" timestamp="1593309623026">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="578" y="172" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1593309623026" />
+    <state x="754" y="279" key="run.anything.popup" timestamp="1593376431833">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="754" y="279" key="run.anything.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1593376431833" />
+  </component>
+</project>
